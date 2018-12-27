@@ -2,14 +2,14 @@
 Repo contains source code of NUnit advanced features to make testers and developers life easier
 
 ## Topics covered are 
-* [TestCase] attribute
+* __[TestCase]__ attribute
   * TestCase with ExpectedResult named parameter
-* [TestCaseSource] attribute
+* __[TestCaseSource]__ attribute
   * TestCaseSource with ExpectedResult method
 * Test Data creation with
-  * [Values]
-  * [Random]
-  * [Range]
-  * [Sequential]
+  * __[Values]__
+  * __[Random]__
+  * __[Range]__
+  * __[Sequential]__
   
   
